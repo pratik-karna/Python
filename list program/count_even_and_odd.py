@@ -16,4 +16,3 @@ print("\nEven Number: ")
 print(totEven)
 print("Odd Number: ")
 print(totOdd)
-
