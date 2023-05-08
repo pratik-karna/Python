@@ -10,4 +10,3 @@ while True:
     else:
         break
 fileHandle.close()
-
