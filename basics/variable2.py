@@ -4,5 +4,4 @@ def add():
     c = a + b
     print("The sum is:", c)
 
-
 add()
